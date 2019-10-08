@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://d31v04zdn5vmni.cloudfront.net/blog/wp-content/uploads/2018/03/ultimate-guide-to-background-images-in-email.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.search_style {
+    border-radius: 5px;
+    color: grey;
+    height: 38px;
+    position: relative;
+    top: -16px;
+}
+
+.header_position{
+    position: relative;
+    top: 12px
+}
+
+header {
+    margin: auto;
+    width: 65%;
+    margin-top: 6px;
+    text-align: left center;
+}
+
+hr {
+    border-color: lightgray;
+    border-width: 0.5px;
+}
+
+.search_button {
+    position: relative;
+    top: -14px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+main {
+    width: 65%;
+    margin: auto;
+    margin-top: 6px;
+    height: 400px;
+}
+
+.email_style_read{
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+}
+
+.subject_position{
+    color: #5e6169;
+}
+
+.from_style{
+    color: #5e6169;
+}
+
+.unread {
+   background-color: white;
+   color: black;
+   font-weight: bold;
+   border-bottom: 1px solid black;
+   border-top: 1px solid black;
+}
+
+footer {
+    width: 65%;
+    margin: auto;
+    margin-top: 6px;
+    text-align: center;
+}
